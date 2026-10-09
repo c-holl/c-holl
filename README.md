@@ -1,4 +1,7 @@
-## Hi there 👋
+Aspiring Backend Dev
+Learning on Boot.Dev
+
+[![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/06c65ba8-33fe-459f-85da-5c485217d3e4.jpeg?v=1791553004)](https://www.boot.dev/certificates/06c65ba8-33fe-459f-85da-5c485217d3e4)
 
 <!--
 **c-holl/c-holl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
