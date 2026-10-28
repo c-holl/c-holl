@@ -4,6 +4,8 @@ Learning on Boot.Dev
 
 [![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/06c65ba8-33fe-459f-85da-5c485217d3e4.jpeg?v=1791553004)](https://www.boot.dev/certificates/06c65ba8-33fe-459f-85da-5c485217d3e4)
 
+[![Boot.dev Build a BookBot in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/a285e108-814f-4ef1-a1ce-cd32ccfb8baf.jpeg?v=1792385772)](https://www.boot.dev/certificates/a285e108-814f-4ef1-a1ce-cd32ccfb8baf)
+
 <!--
 **c-holl/c-holl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
