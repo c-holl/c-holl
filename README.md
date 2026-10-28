@@ -2,7 +2,11 @@ Aspiring Backend Dev
 
 Learning on Boot.Dev
 
+[![Boot.dev Learn Git certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/870615c9-6519-4ef9-adff-2fabe201d972.jpeg?v=1793217609)](https://www.boot.dev/certificates/870615c9-6519-4ef9-adff-2fabe201d972)
+
 [![Boot.dev Build a BookBot in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/a285e108-814f-4ef1-a1ce-cd32ccfb8baf.jpeg?v=1792385772)](https://www.boot.dev/certificates/a285e108-814f-4ef1-a1ce-cd32ccfb8baf)
+
+[![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/6390126e-6024-4e67-912e-c3d7187b707e.jpeg?v=1792385631)](https://www.boot.dev/certificates/6390126e-6024-4e67-912e-c3d7187b707e)
 
 [![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/06c65ba8-33fe-459f-85da-5c485217d3e4.jpeg?v=1791553004)](https://www.boot.dev/certificates/06c65ba8-33fe-459f-85da-5c485217d3e4)
 
